@@ -36,4 +36,4 @@ jobs:
           distribution: 'adopt'
           java-version: '11'
           check-latest: true
-      - run: java -cp java HelloWorldApp
+      - run: java -cp duan.hbpu.TestJava
